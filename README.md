@@ -1,16 +1,16 @@
 # 🧠 Kaito Comment Generator Bot
 
-This is a Python-based automation script that reads tweets from a file, detects the associated project, and generates short, human-like comments using the Groq API and LLaMA 3 models.
+This is a Python-based automation script that reads tweets from a file, detects the associated project, and generates short, human-like comments using the AI .
 
-It includes secure user authentication via Google Sheets and supports a variety of crypto projects with aliases for broader detection.
+It includes secure user authentication and supports a variety of crypto projects with aliases for broader detection.
 
 ---
 
 ## 🚀 Features
 
 - ✅ Auto-detects the crypto project from tweet content
-- 🧠 Generates smart, human-style comments using `llama3-8b-8192`
-- 🔐 Username & passcode authentication via Google Sheets
+- 🧠 Generates smart, human-style comments `AI`
+- 🔐 Username & passcode authentication 
 - 📁 Reads input from `tweets.txt` and saves output to `tweet_replies.txt`
 - 🔄 Supports aliases (e.g. "blessnet", "noya.ai", "oglabs")
 
@@ -30,7 +30,7 @@ It includes secure user authentication via Google Sheets and supports a variety 
 
 ```bash
 git clone https://github.com/your-username/kaito-comment-bot.git
-cd kaito-comment-bot
+cd Twitter-Comment-Generator
 ```
 
 2. **Install dependencies:**
@@ -63,11 +63,10 @@ https://x.com/AlloraNetwork/status/0987654321
 
 ## 🔐 Authentication
 
-This script requires a **username** and **passcode** to run. Credentials are validated via a Google Sheets backend hosted on Google Apps Script. IP logging is also used to track access.
+This script requires a **username** and **passcode** to run. Credentials are validated by backend host Script. IP logging is also used to track access.
 
 To get access:
-- Contact the project maintainer to get your credentials added to the sheet.
-
+- Contact the project maintainer to get your credentials .
 ---
 
 ## ✅ How to Run
@@ -124,4 +123,4 @@ MIT License. Free for personal and research use.
 
 ## 🙋‍♂️ Questions?
 
-Open an issue or ping @yourname on Twitter!
+Open an issue or ping @0xHussainAI on Twitter!
