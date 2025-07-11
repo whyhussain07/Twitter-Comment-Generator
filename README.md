@@ -66,6 +66,7 @@ https://x.com/AlloraNetwork/status/0987654321
 This script requires a **username** and **passcode** to run. Credentials are validated by backend host Script. IP logging is also used to track access.
 
 To get access:
+
 - Contact the project maintainer to get your credentials .
 ---
 
@@ -115,12 +116,14 @@ You can expand support easily by editing the `project_handles` and `project_alia
 
 ---
 
-## 📜 License
+## ✅ License
 
-MIT License. Free for personal and research use.
+- This script is proprietary and provided only for personal or internal use by the original user or team.
 
----
+- ❌ You may not redistribute, resell, sublicense, or publicly share this code.
 
-## 🙋‍♂️ Questions?
+- ✅ You may modify it privately for your own workflows.
 
-Open an issue or ping @0xHussainAI on Twitter!
+- 🧠 All intellectual property rights belong to the original creator.
+
+Contact the author if you wish to license this for broader use.
