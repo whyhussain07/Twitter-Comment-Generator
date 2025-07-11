@@ -1,4 +1,4 @@
-# 🧠 Kaito Comment Generator Bot
+# 🧠 Twitter-Comment-Generator
 
 This is a Python-based automation script that reads tweets from a file, detects the associated project, and generates short, human-like comments using the AI .
 
